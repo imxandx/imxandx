@@ -1,4 +1,4 @@
-### Eaiii, sou o Alexandre Delaboneta, desenvolvedor web fullstack! ⚡
+### Eaiii, sou o Alexandre Delaboneta, Desenvolvedor Web Fullstack! ⚡
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Xandi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
