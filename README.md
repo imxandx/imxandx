@@ -37,6 +37,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Mysql](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg).
+![My-sql](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
