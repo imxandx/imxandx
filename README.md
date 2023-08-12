@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Alexandre+Delaboneta&color=f2f2f2f2"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Alexandre+Delaboneta"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+:%29;Sou+desenvolvedor+front-end;sinta-se+à+vontade+para+conhecer+meus+repositórios;Aqui+abaixo+são+algumas+informações+sobre+mim.)](https://git.io/typing-svg)
 
