@@ -1,6 +1,6 @@
 ### Eaiii, sou o Alexandre Delaboneta, Desenvolvedor Web Fullstack! ⚡
 
- <h1>I'm <span class="multiText"></span></h1>
+ <h1>I'm <span id="multiText"></span></h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Xandi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
 </div>
 
  <script>
-        var typingEffect = new Typed(".multiText",{
+        var typingEffect = new Typed("multiText",{
             strings : ["Alexandre", "Developer", "FullStack"],
             loop : true,
             typeSpeed : 100,
