@@ -69,9 +69,9 @@
 <td>IDE</td>
 <td style="background-color:black;">
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=auto)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=auto)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=green)&nbsp;
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=auto)&nbsp;
 
 </td>
 </tr>
