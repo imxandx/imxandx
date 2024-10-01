@@ -54,7 +54,7 @@
 <tr>
 
 <td>🗄️</td>
-<td >Database</td>
+<td>Database</td>
 <td style="background-color:black;">
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
