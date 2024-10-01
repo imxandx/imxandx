@@ -14,7 +14,7 @@
 <div align="center">  
 <a href="https://www.linkedin.com/in/alexandre-delaboneta/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
 <a href="https://instagram.com/imxandx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:delabonetacoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:delabonetacoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://imxandx.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -24,17 +24,16 @@
 <tbody style="text-align:center">
 
 <tr>
-
 <td>🖥️</td>
 <td>Frontend</td>
 <td style="background-color:black;">
   
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 </td>
 </tr>
@@ -44,9 +43,9 @@
 <td>Backend</td>
 <td style="background-color:black;">
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
-![Mongoose](https://img.shields.io/badge/Mongoose-880E4F?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
 
 </td>
 </tr>
@@ -57,9 +56,9 @@
 <td>Database</td>
 <td style="background-color:black;">
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 </td>
 </tr>
@@ -70,33 +69,9 @@
 <td>IDE</td>
 <td style="background-color:black;">
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=green)&nbsp;
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
-
-</td>
-</tr>
-
-<tr>
-
-<td>🤖</td>
-<td>IA</td>
-<td style="background-color:black;">
-
-![Chat GPT](https://img.shields.io/badge/-Chat%20GPT-black?style=for-the-badge&logo=robotframework&logoColor=70A597)&nbsp;
-![Gemini](https://img.shields.io/badge/-Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=C66D84)&nbsp;
-
-</td>
-</tr>
-
-<tr>
-
-<td>💾</td>
-<td>Version</td>
-<td style="background-color:black;">
-
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=white)&nbsp;
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 
 </td>
 </tr>
@@ -107,7 +82,19 @@
 <td>Design</td>
 <td style="background-color:black;">
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+
+<td>💾</td>
+<td>Version</td>
+<td style="background-color:black;">
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 </td>
 </tr>
@@ -118,9 +105,9 @@
 <td>Others</td>
 <td style="background-color:black;">
 
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Insomnia](https://img.shields.io/badge/Insomnia-5851DB?style=for-the-badge&logo=insomnia&logoColor=white)&nbsp;
+![Electron.js](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=white)&nbsp;
 
 </td>
 </tr>
