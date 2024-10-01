@@ -28,12 +28,12 @@
 <td>Frontend</td>
 <td style="background-color:black;">
   
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=auto)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=auto)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=auto)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=auto)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=auto)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=auto)&nbsp;
 
 </td>
 </tr>
@@ -43,9 +43,9 @@
 <td>Backend</td>
 <td style="background-color:black;">
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
-![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=auto)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=auto)&nbsp;
+![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongoose&logoColor=auto)&nbsp;
 
 </td>
 </tr>
@@ -56,9 +56,9 @@
 <td>Database</td>
 <td style="background-color:black;">
 
-![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=auto)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=auto)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=auto)&nbsp;
 
 </td>
 </tr>
@@ -69,9 +69,9 @@
 <td>IDE</td>
 <td style="background-color:black;">
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=white)&nbsp;
-![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=auto)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=auto)&nbsp;
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=auto)&nbsp;
 
 </td>
 </tr>
@@ -82,7 +82,7 @@
 <td>Design</td>
 <td style="background-color:black;">
 
-![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=auto)&nbsp;
 
 </td>
 </tr>
@@ -93,8 +93,8 @@
 <td>Version</td>
 <td style="background-color:black;">
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=auto)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=auto)&nbsp;
 
 </td>
 </tr>
@@ -105,9 +105,9 @@
 <td>Others</td>
 <td style="background-color:black;">
 
-![Electron.js](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=white)&nbsp;
+![Electron.js](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron&logoColor=auto)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=auto)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=auto)&nbsp;
 
 </td>
 </tr>
