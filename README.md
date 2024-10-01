@@ -32,7 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=auto)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=auto)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=auto)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=auto)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=auto)&nbsp;
 
 </td>
@@ -69,9 +69,9 @@
 <td>IDE</td>
 <td style="background-color:black;">
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=auto)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=auto)&nbsp;
-![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=auto)&nbsp;
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=5391FE)&nbsp;
 
 </td>
 </tr>
