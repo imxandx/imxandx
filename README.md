@@ -17,7 +17,8 @@
 <a href = "mailto:delabonetacoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://imxandx.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
-  
+
+<br>
 
 <table> 
 <tbody style="text-align:center">
@@ -26,7 +27,7 @@
 
 <td>🖥️</td>
 <td>Frontend</td>
-<td>
+<td style="background-color:black;">
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -38,26 +39,23 @@
 </td>
 </tr>
 
-
 <tr>
 <td>📥</td>
 <td>Backend</td>
-<td>
+<td style="background-color:black;">
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![Mongoose](https://img.shields.io/badge/Mongoose-880E4F?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
 
-
 </td>
 </tr>
-
 
 <tr>
 
 <td>🗄️</td>
 <td >Database</td>
-<td>
+<td style="background-color:black;">
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -66,12 +64,11 @@
 </td>
 </tr>
 
-
 <tr>
 
 <td>🔧</td>
 <td>IDE</td>
-<td>
+<td style="background-color:black;">
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=green)&nbsp;
@@ -80,12 +77,11 @@
 </td>
 </tr>
 
-
 <tr>
 
 <td>🤖</td>
 <td>IA</td>
-<td>
+<td style="background-color:black;">
 
 ![Chat GPT](https://img.shields.io/badge/-Chat%20GPT-black?style=for-the-badge&logo=robotframework&logoColor=70A597)&nbsp;
 ![Gemini](https://img.shields.io/badge/-Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=C66D84)&nbsp;
@@ -93,12 +89,11 @@
 </td>
 </tr>
 
-
 <tr>
 
 <td>💾</td>
 <td>Version</td>
-<td>
+<td style="background-color:black;">
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)&nbsp;
@@ -106,24 +101,22 @@
 </td>
 </tr>
 
-
 <tr>
 
 <td>🎨</td>
 <td>Design</td>
-<td>
+<td style="background-color:black;">
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 </td>
 </tr>
 
-
 <tr>
 
 <td>🥅</td>
 <td>Others</td>
-<td>
+<td style="background-color:black;">
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
@@ -140,7 +133,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermezety/guilhermezety/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/imxandx/imxandx/output/github-snake.svg" />
 </picture>
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
