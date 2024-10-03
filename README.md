@@ -71,7 +71,7 @@
 
 ![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&logoColor=auto)&nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=auto)&nbsp;
-![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-efefef?style=for-the-badge&logo=testing-library&logoColor=auto)&nbsp;
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-black?style=for-the-badge&logo=testing-library&logoColor=auto)&nbsp;
 
 </td>
 </tr>
