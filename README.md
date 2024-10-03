@@ -65,13 +65,12 @@
 
 <tr>
 
-<td>🔧</td>
-<td>IDE</td>
+<td>♻</td>
+<td>Tests</td>
 <td style="background-color:black;">
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=auto)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=auto)&nbsp;
-![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=auto)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&logoColor=auto)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=auto)&nbsp;
 
 </td>
 </tr>
@@ -101,13 +100,14 @@
 
 <tr>
 
-<td>🥅</td>
+<td>🔧</td>
 <td>Others</td>
 <td style="background-color:black;">
 
 ![Electron.js](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron&logoColor=auto)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=auto)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=auto)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=auto)&nbsp;
 
 </td>
 </tr>
