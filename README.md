@@ -108,6 +108,7 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=auto)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=auto)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=auto)&nbsp;
+![Libraries](https://img.shields.io/badge/Libraries-black?style=for-the-badge&logo=undefined&logoColor=auto)&nbsp;
 
 </td>
 </tr>
