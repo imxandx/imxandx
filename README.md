@@ -30,6 +30,8 @@
   
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=auto)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=auto)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=auto)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=auto)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=auto)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
