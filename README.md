@@ -36,7 +36,7 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=auto)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=auto)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 </td>
 </tr>
@@ -113,7 +113,7 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=auto)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=auto)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=auto)&nbsp;
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=auto)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
 
 </td>
 </tr>
