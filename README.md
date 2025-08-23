@@ -74,6 +74,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=auto)&nbsp;
 ![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongoose&logoColor=auto)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=sqlalchemy&logoColor=red)&nbsp;
 
 </td>
 </tr>
