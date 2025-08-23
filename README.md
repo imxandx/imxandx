@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/130688319?v=4" width="120" heighy="120" style="border-radius:50%;" />
+  <img src="https://imxandx.github.io/portfolio/assets/images/BRANCO%20-%20Sem%20Fundo.png" width="120" heighy="120" />
 </p>
 
 <div align="center">  
