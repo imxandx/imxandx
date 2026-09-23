@@ -2,20 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+:%29;Sou+Desenvolvedor+Full+Stack+IA;Aqui+abaixo+são+algumas+informações+sobre+mim.)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://SUA-INSTANCIA.vercel.app/api?username=imxandx&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Delaboneta github stats" /> 
-  <img width="41%" height="195px" src="https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=imxandx&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top linguagens" />
-</div>
-
 <p align="center">
-  <img src="https://imxandx.github.io/portfolio/assets/img/logo-branco.webp" width="120" height="120" />
+  <img src="https://imxandx.github.io/portfolio/assets/img/logo.svg" width="120" height="120" />
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/alexandre-delaboneta/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://instagram.com/imxandx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:delabonetacoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://imxandx.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/alexandre-delaboneta/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
+<a href="https://instagram.com/imxandx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:delabonetacoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://imxandx.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
 
 <br>
@@ -33,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcn-ui)
@@ -76,7 +71,7 @@
 <h3>🚀 &nbsp;DevOps e Infraestrutura:</h3>
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![N8N](https://img.shields.io/badge/-N8N-333333?style=flat&logo=n8n)
@@ -89,8 +84,8 @@
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imxandx/imxandx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imxandx/imxandx/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermezety/guilhermezety/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermezety/guilhermezety/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/imxandx/imxandx/output/github-snake.svg" />
 </picture>
 
