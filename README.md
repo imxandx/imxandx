@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://imxandx.github.io/portfolio/assets/images/BRANCO%20-%20Sem%20Fundo.png" width="120" height="120" />
+  <img src="https://imxandx.github.io/portfolio/assets/img/logo-branco.webp" width="120" height="120" />
 </p>
 
 <div align="center">  
